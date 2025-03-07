@@ -1,2 +1,2 @@
 pyton:alpine3.19
-training/webapp
+
